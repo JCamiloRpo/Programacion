@@ -1,0 +1,48 @@
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.exe.config
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.exe
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.pdb
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csprojAssemblyReference.cache
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmInicio.resources
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmMedidor.resources
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.Properties.Resources.resources
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.GenerateResource.cache
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.CoreCompileInputs.cache
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.exe
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.pdb
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.exe.config
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.exe
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.pdb
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csprojAssemblyReference.cache
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmInicio.resources
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmMedidor.resources
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmSuscriptor.resources
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.Properties.Resources.resources
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.GenerateResource.cache
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.CoreCompileInputs.cache
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.exe
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.pdb
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidor.dll
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidor.pdb
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmInventario.resources
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.CopyComplete
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.exe.config
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.exe
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidorMain.pdb
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidor.dll
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidor.pdb
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csprojAssemblyReference.cache
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmInicio.resources
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmInventario.resources
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmMedidor.resources
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmSuscriptor.resources
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.Properties.Resources.resources
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.GenerateResource.cache
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.CopyComplete
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.exe
+C:\Users\Camilo\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.pdb
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidor.dll
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\bin\Debug\CentroMedidor.pdb
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmInventario.resources
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.FmSuscriptor.resources
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidorMain\CentroMedidorMain\obj\Debug\CentroMedidorMain.csproj.CopyComplete

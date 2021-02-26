@@ -1,0 +1,19 @@
+EN EL MODULO
+Option Compare Database
+Option Explicit
+
+Global Const SW_HIDE = 0
+Global Const SW_MINIMIZED = 2
+Global Const SW_MAXIMIZED = 3
+Private Declare PtrSafe Function apiShowWindow Lib "user32" Alias "ShowWindow" (ByVal hwnd As Long, ByVal nCmdShow As Long) As Long
+
+Function fSetAccessWindow(nCmdShow As Long)
+Dim loX As Long
+Dim loForm As Form
+loX = apiShowWindow(hWndAccessApp, nCmdShow)
+End Function
+
+EN EL FORM DE INICIO
+Private Sub Form_Open(Cancel As Integer)
+    fSetAccessWindow (0)
+End Sub

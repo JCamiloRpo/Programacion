@@ -1,0 +1,14 @@
+C:\Users\B09S411est\Documents\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\B09S411est\Documents\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\B09S411est\Documents\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\B09S411est\Documents\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\B09S411est\Documents\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\B09S411est\Documents\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\B09S411est\Documents\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Camilo\Documents\Visual\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Camilo\Documents\Visual\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Camilo\Documents\Visual\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Camilo\Documents\Visual\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Camilo\Documents\Visual\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Documents\Visual\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Camilo\Documents\Visual\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

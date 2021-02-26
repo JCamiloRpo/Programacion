@@ -1,0 +1,7 @@
+C:\Users\Camilo\Documents\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\Camilo\Documents\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\Camilo\Documents\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\Camilo\Documents\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojAssemblyReference.cache
+C:\Users\Camilo\Documents\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Documents\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\Camilo\Documents\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

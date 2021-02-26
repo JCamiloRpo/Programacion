@@ -1,0 +1,12 @@
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\bin\Debug\CentroMedidor.dll
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\bin\Debug\CentroMedidor.pdb
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\obj\Debug\CentroMedidor.csprojAssemblyReference.cache
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\obj\Debug\CentroMedidor.csproj.CoreCompileInputs.cache
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\obj\Debug\CentroMedidor.dll
+D:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\obj\Debug\CentroMedidor.pdb
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\bin\Debug\CentroMedidor.dll
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\bin\Debug\CentroMedidor.pdb
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\obj\Debug\CentroMedidor.csprojAssemblyReference.cache
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\obj\Debug\CentroMedidor.csproj.CoreCompileInputs.cache
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\obj\Debug\CentroMedidor.dll
+E:\UPB\Sem_3\Programacion y Diseño\Visual\Final\CentroMedidor\CentroMedidor\obj\Debug\CentroMedidor.pdb
